@@ -1,0 +1,13 @@
+.modal-content{
+  background-color:#512DA8;
+
+}
+.modal-body{
+  background-color: #D1C4E9;
+}
+.modal-header{
+  color: #fffaf0;
+}
+.modal-header .close{
+  color: #fffaf0;
+}
